@@ -1,0 +1,7 @@
+{
+  "name": "Remix: IdentityPro CIMS",
+  "description": "Enterprise-grade Centralized Identity Management System with multi-tenant RBAC, secure onboarding, and immutable audit logging.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
